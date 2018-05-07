@@ -32,7 +32,7 @@
         "sensio/framework-extra-bundle": "~3.2|~4.0",
         "symfony/twig-bundle": "~3.2|~4.0",
         "mpdf/mpdf": "~7.0",
-        "symfony/lts": "v3"
+        "symfony/lts": "dev-master"
     },
     "suggest": {
         "mpdf/mpdf": "Add support for PDF rendering, requires ~6.1",
